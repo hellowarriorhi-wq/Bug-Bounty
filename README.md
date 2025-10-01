@@ -1,4 +1,4 @@
-Bug Bounty
+Concept of Bug Bounty, Scope, Public vs Private
 A bug Bounty is a program that is offered by organisations ( companies , government , agencies ) that allows hackers to legally find and report security vulnerabilities , bugs , and flaws in their systems, applications, or website. In return, these organisations provide recognition and , most importantly , financial compensations ( the “bounty” ) for valid and impactful findings.
 
 # Scope -
